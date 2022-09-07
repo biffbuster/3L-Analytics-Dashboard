@@ -1,4 +1,4 @@
-<img src="https://github.com/biffbuster/3L-Analytics-Dashboard/blob/main/assets/images/3l_logo.png" width="600" height="220">
+<img src="https://github.com/biffbuster/3L-Analytics-Dashboard/blob/main/assets/images/3l_logo.png" width="450" height="160">
 
 # 3L Analytics Dashboard
 
