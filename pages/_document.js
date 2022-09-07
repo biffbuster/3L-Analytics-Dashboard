@@ -25,8 +25,8 @@ class MyDocument extends Document {
             rel="stylesheet"
             href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
           />
-          {/* <link href="/fonts/font_style.css" rel="stylesheet"
-          /> */}
+          <link href="https://github.com/biffbuster/3L-Analytics-Dashboard/public/fonts/font_style.css" rel="stylesheet"
+          />
         </Head>
         <body>
           <Main />
