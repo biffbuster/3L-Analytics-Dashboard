@@ -1,6 +1,6 @@
-<img src="https://github.com/biffbuster/3L-Analytics-Dashboard/blob/main/assets/images/3l_logo.png" width="350" height="140">
+<img src="https://github.com/biffbuster/3L-Analytics-Dashboard/blob/main/assets/images/3l_logo.png" width="325" height="120">
 
-# 3L Analytics Dashboard
+# 3Landers Analytics Dashboard
 
 Analytics dashboard for the [3Landers NFT project](https://3landersnft.com/). This web app was built to track on-chain metrics for the 3Landers ecosystem, including sales, traits and ship building.
 
