@@ -1,4 +1,4 @@
-![3landers_Analytics](https://github.com/biffbuster/3L-Analytics-Dashboard/blob/main/assets/images/3l_logo.png)
+![3landers_Analytics](https://github.com/biffbuster/3L-Analytics-Dashboard/blob/main/assets/images/3l_logo.png =600x200)
 
 # 3L Analytics Dashboard
 
