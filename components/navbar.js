@@ -17,7 +17,7 @@ const Navbar = () => {
 
   useEffect(() => {
     setMounted(true)
-  })
+  }, [])
 
   const renderThemeChange = () => {
     if (!mounted) return null
