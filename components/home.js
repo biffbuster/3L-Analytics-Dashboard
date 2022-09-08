@@ -7,7 +7,7 @@ import HandShake from '../assets/images/user.png'
 import Sales from '../assets/images/coupon.png'
 import DNALogo from '../assets/images/dna.png'
 import styles from '../styles/Home.module.css'
-import Dreamers from '../assets/Images/3landers_team.png'
+import Dreamers from '../assets/images/3landers_team.png'
 
 const Banner = () => {
   return (
