@@ -22,15 +22,7 @@ const Navbar = () => {
   const renderThemeChange = () => {
     if (!mounted) return null
     const currentTheme = theme === 'system' ? systemTheme : theme
-    if (currentTheme === 'dark') {
-      return (
-        <SunIcon
-          className="w-7 h-7"
-          role="button"
-          onClick={() => setTheme('light')}
-        />
-      )
-    } else {
+    if (currentTheme === 'light') {
       return (
         <MoonIcon
           className="w-7 h-7"
@@ -38,26 +30,38 @@ const Navbar = () => {
           onClick={() => setTheme('dark')}
         />
       )
+    } else {
+      return (
+        <SunIcon
+          className="w-7 h-7"
+          role="button"
+          onClick={() => setTheme('light')}
+        />
+      )
     }
-    // return (
-    //   <Button>
-    //     <svg
-    //       class="w-6 h-6"
-    //       fill="none"
-    //       stroke="currentColor"
-    //       viewBox="0 0 24 24"
-    //       xmlns="http://www.w3.org/2000/svg"
-    //     >
-    //       <path
-    //         stroke-linecap="round"
-    //         stroke-linejoin="round"
-    //         stroke-width="2"
-    //         d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"
-    //       ></path>
-    //     </svg>
-    //   </Button>
-    // )
   }
+
+  // const renderThemeChange = () => {
+  //   if (!mounted) return null
+  //   const currentTheme = theme === 'system' ? systemTheme : theme
+  //   if (currentTheme === 'dark') {
+  //     return (
+  //       <SunIcon
+  //         className="w-7 h-7"
+  //         role="button"
+  //         onClick={() => setTheme('light')}
+  //       />
+  //     )
+  //   } else {
+  //     return (
+  //       <MoonIcon
+  //         className="w-7 h-7"
+  //         role="button"
+  //         onClick={() => setTheme('dark')}
+  //       />
+  //     )
+  //   }
+  // }
 
   return (
     <nav className=" w-100 p-1 px-2  navbar dark:text-white dark:bg-black navbar-expand-lg navbar-light position-fixed top-0 start-0">
