@@ -22,15 +22,7 @@ const Navbar = () => {
   const renderThemeChange = () => {
     if (!mounted) return null
     const currentTheme = theme === 'system' ? systemTheme : theme
-    if (currentTheme === 'light') {
-      return (
-        <MoonIcon
-          className="w-7 h-7"
-          role="button"
-          onClick={() => setTheme('dark')}
-        />
-      )
-    } else {
+    if (currentTheme === 'dark') {
       return (
         <SunIcon
           className="w-7 h-7"
@@ -38,30 +30,16 @@ const Navbar = () => {
           onClick={() => setTheme('light')}
         />
       )
+    } else {
+      return (
+        <MoonIcon
+          className="w-7 h-7"
+          role="button"
+          onClick={() => setTheme('dark')}
+        />
+      )
     }
   }
-
-  // const renderThemeChange = () => {
-  //   if (!mounted) return null
-  //   const currentTheme = theme === 'system' ? systemTheme : theme
-  //   if (currentTheme === 'dark') {
-  //     return (
-  //       <SunIcon
-  //         className="w-7 h-7"
-  //         role="button"
-  //         onClick={() => setTheme('light')}
-  //       />
-  //     )
-  //   } else {
-  //     return (
-  //       <MoonIcon
-  //         className="w-7 h-7"
-  //         role="button"
-  //         onClick={() => setTheme('dark')}
-  //       />
-  //     )
-  //   }
-  // }
 
   return (
     <nav className=" w-100 p-1 px-2  navbar dark:text-white dark:bg-black navbar-expand-lg navbar-light position-fixed top-0 start-0">
