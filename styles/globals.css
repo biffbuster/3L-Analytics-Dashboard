@@ -10,28 +10,28 @@
  
   @font-face {
     font-family: 'Bungee';
-    src: url('../public/fonts/Bungee-Shade.woff2') format('woff2');
+    src: url('/public/fonts/Bungee-Shade.woff2') format('woff2');
     font-weight:400;
     font-display:swap;
     font-style:normal
   }
   @font-face {
     font-family: 'DeepShadow';
-    src: url('../public/fonts/Deep-Shadow.woff2') format('woff2');
+    src: url('/public/fonts/Deep-Shadow.woff2') format('woff2');
     font-weight:400;
     font-display:swap;
     font-style:normal
   }
   @font-face {
     font-family: 'DeepShadowUnder';
-    src: url('../public/fonts/Deep-Shadow-Under.woff2') format('woff2');
+    src: url('/public/fonts/Deep-Shadow-Under.woff2') format('woff2');
     font-weight:400;
     font-display:swap;
     font-style:normal
   }
   @font-face {
     font-family: 'JacquesFrancoisShadow';
-    src: url('../public/fonts/Jacques-Francois-Shadow.woff2') format('woff2');
+    src: url('/public/fonts/Jacques-Francois-Shadow.woff2') format('woff2');
     font-weight:400;
     font-display:swap;
     font-style:normal
