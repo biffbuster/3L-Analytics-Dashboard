@@ -3,7 +3,7 @@ import Link from 'next/link'
 import Image from 'next/image'
 import GifIMG from '../assets/images/campfire.gif'
 import styles from '../styles/Home.module.css'
-import Dreamers from '../assets/images/3landers_team.png'
+import Dreamers from '../assets/images/3Landers_team.png'
 
 const Holders = () => {
   return (
