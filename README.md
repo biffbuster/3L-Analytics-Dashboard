@@ -11,7 +11,7 @@ ____________
 # Getting started
 ____________
 
-### This is a ![NextJS](https://nextjs.org/) project bootstrapped with `create-next-app`
+This is a [NextJS](https://nextjs.org/) project bootstrapped with `create-next-app`
 
 You can view a live demo over at: [https://3landers-analytics.xyz/](https://3landers-analytics.xyz/)
 
