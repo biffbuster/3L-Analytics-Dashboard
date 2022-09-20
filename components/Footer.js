@@ -16,10 +16,10 @@ const footer = () => {
           </div>
         </div>
         <div className="flex-[0.33] w-full flex items-center justify-center">
-          <p className="font-semibold dark:text-white ">
+          <p className="font-semibold dark:text-white items-center">
           Made by&nbsp; <span className="my-8 dark:text-white uppercase font-deepShadow">
-            <a href="https://mobile.twitter.com/biff_buster" className="text-[10px]" target="_blank" rel="noopener noreferrer"> biff_buster &nbsp; </a>  </span> and &nbsp; <span className="my-8 dark:text-white uppercase font-deepShadow">
-            <a href="https://mobile.twitter.com/hichamo_01" className="text-[10px]" target="_blank" rel="noopener noreferrer"> hichamo_01 </a>  </span>  |&nbsp;  Not affiliated with 3Landers.
+            <a href="https://mobile.twitter.com/biff_buster" className="text-[9px]" target="_blank" rel="noopener noreferrer"> biff_buster </a>  </span> + <span className="my-8 dark:text-white uppercase font-deepShadow">
+            <a href="https://mobile.twitter.com/hichamo_01" className="text-[9px]" target="_blank" rel="noopener noreferrer"> hichamo_01 </a>  </span>  |&nbsp;  Not affiliated with 3Landers.
           </p>
         </div>
         <div className="flex-[0.33]   w-full flex items-center justify-center">
