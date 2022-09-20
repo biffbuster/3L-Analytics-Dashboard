@@ -18,23 +18,24 @@ const footer = () => {
         <div className="flex-[0.33] w-full flex items-center justify-center">
           <p className="font-semibold dark:text-white ">
           Made by&nbsp; <span className="my-8 dark:text-white uppercase font-deepShadow">
-            <a className="text-[10px]" target="_blank" rel="noopener noreferrer"> biff_buster </a>  </span> |&nbsp;  Not affiliated with 3Landers.
+            <a href="https://mobile.twitter.com/biff_buster" className="text-[10px]" target="_blank" rel="noopener noreferrer"> biff_buster &nbsp; </a>  </span> and &nbsp; <span className="my-8 dark:text-white uppercase font-deepShadow">
+            <a href="https://mobile.twitter.com/hichamo_01" className="text-[10px]" target="_blank" rel="noopener noreferrer"> hichamo_01 </a>  </span>  |&nbsp;  Not affiliated with 3Landers.
           </p>
         </div>
         <div className="flex-[0.33]   w-full flex items-center justify-center">
           <ul className="flex dark:text-white flex-wrap items-center  text-md text-gray-500 sm:mb-0 ">
             <li>
-              <a href="#" className="mr-4 hover:underline md:mr-6">
+              <a href="https://medium.com/@3landers.nft" className="mr-4 hover:underline md:mr-6">
                 Medium
               </a>
             </li>
             <li>
-              <a href="#" className="mr-4 hover:underline md:mr-6 ">
+              <a href="https://www.barriersworldwide.com/password" className="mr-4 hover:underline md:mr-6 ">
                 Merchandise
               </a>
             </li>
             <li>
-              <a href="#" className="hover:underline">
+              <a href="https://looksrare.org/collections/0xb4d06d46A8285F4EC79Fd294F78a881799d8cEd9" className="hover:underline">
                 LooksRare
               </a>
             </li>
