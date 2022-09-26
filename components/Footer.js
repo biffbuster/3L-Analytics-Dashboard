@@ -2,7 +2,7 @@ import React from 'react'
 import Link from 'next/link'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
-import opensea from '../assets/images/opensea1.png'
+import opensea from '../assets/images/icons/opensea1.png'
 import navlogo from '../assets/images/Eyes.gif'
 import Logo from '../assets/images/3l_logo.png'
 
@@ -18,8 +18,7 @@ const footer = () => {
         <div className="flex-[0.33] w-full flex items-center justify-center">
           <p className="font-semibold dark:text-white items-center">
           Made by&nbsp; <span className="my-8 dark:text-white uppercase font-deepShadow">
-            <a href="https://mobile.twitter.com/biff_buster" className="text-[9px]" target="_blank" rel="noopener noreferrer"> biff_buster </a>  </span> + <span className="my-8 dark:text-white uppercase font-deepShadow">
-            <a href="https://mobile.twitter.com/hichamo_01" className="text-[9px]" target="_blank" rel="noopener noreferrer"> hichamo_01 </a>  </span>  |&nbsp;  Not affiliated with 3Landers.
+            <a href="https://twitter.com/biff_buster" className="text-[9px]" target="_blank" rel="noopener noreferrer"> biff_buster </a>  </span> |&nbsp;  Not affiliated with 3Landers.
           </p>
         </div>
         <div className="flex-[0.33]   w-full flex items-center justify-center">

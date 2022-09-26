@@ -3,9 +3,9 @@ import Link from 'next/link'
 import Image from 'next/image'
 import GifIMG from '../assets/images/gif.gif'
 import BannerIMG from '../assets/images/logo_header.png'
-import HandShake from '../assets/images/user.png'
-import Sales from '../assets/images/coupon.png'
-import DNALogo from '../assets/images/dna.png'
+import HandShake from '../assets/images/icons/user.png'
+import Sales from '../assets/images/icons/coupon.png'
+import DNALogo from '../assets/images/icons/dna.png'
 import styles from '../styles/Home.module.css';
 
 const Banner = () => {

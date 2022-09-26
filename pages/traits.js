@@ -60,14 +60,17 @@ const Traits = () => {
       <div className="container mt-4 shadow-2xl  embbedStyle">
         <div className="row">
           <div className="col-md-3 shadow-2xl ">
-            <div>
+            <div className="hover:animate-pulse">
+            <Link href="https://opensea.io/assets/ethereum/0xb4d06d46a8285f4ec79fd294f78a881799d8ced9/1272" passHref>
               <Image
                 src={Human}
                 alt="Human"
+                className="cursor-pointer"
                 width={400}
                 height={415}
                 layout="responsive"
               />
+            </Link>
             </div>
           </div>
           <div className="col-md-3 text-center">
@@ -91,14 +94,17 @@ const Traits = () => {
       <div className="container mt-4 shadow-2xl  embbedStyle">
         <div className="row">
           <div className="col-md-3">
-            <div>
+            <div className="hover:animate-pulse">
+            <Link href="https://opensea.io/assets/ethereum/0xb4d06d46a8285f4ec79fd294f78a881799d8ced9/8042" passHref>
               <Image
                 src={Ape}
                 alt="Human"
+                className="cursor-pointer"
                 width={450}
                 height={415}
                 layout="responsive"
               />
+            </Link>
             </div>
           </div>
           <div className="col-md-3 text-center">
@@ -122,14 +128,17 @@ const Traits = () => {
       <div className="container mt-4 shadow-2xl  embbedStyle">
         <div className="row">
           <div className="col-md-3">
-            <div>
+            <div className="hover:animate-pulse">
+            <Link href="https://opensea.io/assets/ethereum/0xb4d06d46a8285f4ec79fd294f78a881799d8ced9/9677" passHref>
               <Image
                 src={Bot3L}
                 alt="Human"
+                className="cursor-pointer"
                 width={450}
                 height={415}
                 layout="responsive"
               />
+            </Link>
             </div>
           </div>
           <div className="col-md-3 text-center">
@@ -153,14 +162,17 @@ const Traits = () => {
       <div className="container mt-4 shadow-2xl  embbedStyle">
         <div className="row">
           <div className="col-md-3">
-            <div>
+            <div className="hover:animate-pulse">
+            <Link href="https://opensea.io/assets/ethereum/0xb4d06d46a8285f4ec79fd294f78a881799d8ced9/636" passHref>
               <Image
                 src={Sealander}
                 alt="Human"
+                className="cursor-pointer"
                 width={450}
                 height={415}
                 layout="responsive"
               />
+            </Link>
             </div>
           </div>
           <div className="col-md-3 text-center">
@@ -184,14 +196,17 @@ const Traits = () => {
       <div className="container mt-4 embbedStyle">
         <div className="row">
           <div className="col-md-3">
-            <div>
+            <div className="hover:animate-pulse">
+            <Link href="https://opensea.io/assets/ethereum/0xb4d06d46a8285f4ec79fd294f78a881799d8ced9/1089" passHref>
               <Image
                 src={Spirit}
                 alt="Human"
+                className="cursor-pointer"
                 width={450}
                 height={415}
                 layout="responsive"
               />
+            </Link>
             </div>
           </div>
           <div className="col-md-3 text-center">
@@ -215,14 +230,17 @@ const Traits = () => {
       <div className="container mt-4 shadow-2xl  embbedStyle">
         <div className="row">
           <div className="col-md-3">
-            <div>
+            <div className="hover:animate-pulse">
+            <Link href="https://opensea.io/assets/ethereum/0xb4d06d46a8285f4ec79fd294f78a881799d8ced9/6618" passHref>
               <Image
                 src={Zombie}
                 alt="Human"
+                className="cursor-pointer"
                 width={450}
                 height={415}
                 layout="responsive"
               />
+            </Link>
             </div>
           </div>
           <div className="col-md-3 text-center">
@@ -246,14 +264,17 @@ const Traits = () => {
       <div className="container mt-4 shadow-2xl  embbedStyle">
         <div className="row">
           <div className="col-md-3">
-            <div>
+            <div className="hover:animate-pulse">
+            <Link href="https://opensea.io/assets/ethereum/0xb4d06d46a8285f4ec79fd294f78a881799d8ced9/8007" passHref>
               <Image
                 src={Golem}
                 alt="Human"
+                className="cursor-pointer"
                 width={450}
                 height={415}
                 layout="responsive"
               />
+            </Link>
             </div>
           </div>
           <div className="col-md-3 text-center">
@@ -277,14 +298,17 @@ const Traits = () => {
       <div className="container mt-4 shadow-2xl  embbedStyle">
         <div className="row">
           <div className="col-md-3">
-            <div>
+            <div className="hover:animate-pulse">
+            <Link href="https://opensea.io/assets/ethereum/0xb4d06d46a8285f4ec79fd294f78a881799d8ced9/7295" passHref>
               <Image
                 src={Cyborg}
                 alt="Human"
+                className="cursor-pointer"
                 width={450}
                 height={415}
                 layout="responsive"
               />
+            </Link>
             </div>
           </div>
           <div className="col-md-3 text-center">
@@ -308,14 +332,17 @@ const Traits = () => {
       <div className="container mt-4 shadow-2xl  embbedStyle">
         <div className="row">
           <div className="col-md-3">
-            <div>
+            <div className="hover:animate-pulse">
+            <Link href="https://opensea.io/assets/ethereum/0xb4d06d46a8285f4ec79fd294f78a881799d8ced9/4498" passHref>
               <Image
                 src={Alien}
                 alt="Human"
+                className="cursor-pointer"
                 width={450}
                 height={415}
                 layout="responsive"
               />
+            </Link>
             </div>
           </div>
           <div className="col-md-3 text-center">
@@ -339,14 +366,17 @@ const Traits = () => {
       <div className="container mt-4 shadow-2xl  embbedStyle">
         <div className="row">
           <div className="col-md-3">
-            <div>
+            <div className="hover:animate-pulse">
+            <Link href="https://opensea.io/assets/ethereum/0xb4d06d46a8285f4ec79fd294f78a881799d8ced9/2823" passHref>
               <Image
                 src={Devil}
                 alt="Human"
+                className="cursor-pointer"
                 width={450}
                 height={415}
                 layout="responsive"
               />
+            </Link>
             </div>
           </div>
           <div className="col-md-3 text-center">
@@ -370,14 +400,17 @@ const Traits = () => {
       <div className="container mt-4 shadow-2xl  embbedStyle">
         <div className="row">
           <div className="col-md-3">
-            <div>
+            <div className="hover:animate-pulse">
+            <Link href="https://opensea.io/assets/ethereum/0xb4d06d46a8285f4ec79fd294f78a881799d8ced9/3460" passHref>
               <Image
                 src={Meltie}
                 alt="Human"
+                className="cursor-pointer"
                 width={450}
                 height={415}
                 layout="responsive"
               />
+            </Link>
             </div>
           </div>
           <div className="col-md-3 text-center">
@@ -401,14 +434,17 @@ const Traits = () => {
       <div className="container mt-4 shadow-2xl  embbedStyle">
         <div className="row">
           <div className="col-md-3">
-            <div>
+            <div className="hover:animate-pulse">
+            <Link href="https://opensea.io/assets/ethereum/0xb4d06d46a8285f4ec79fd294f78a881799d8ced9/481" passHref>
               <Image
                 src={Bubbly}
                 alt="Human"
+                className="cursor-pointer"
                 width={400}
                 height={350}
                 layout="responsive"
               />
+            </Link>
             </div>
           </div>
           <div className="col-md-3 text-center">
