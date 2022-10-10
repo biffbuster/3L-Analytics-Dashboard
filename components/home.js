@@ -25,7 +25,7 @@ const Banner = () => {
           <div className="col-md-5">
             <div>
               <h4 className="text-3xl dark:text-white font-semibold box-shadow-2xl md:my-9 light:bg-gray-50 rounded-lg px-2 pb-2">
-                Explore on chain ⛓ activity within the 3Landers ecosystem. Discover trends and popular items like DNA types, Biomes, Ship Building and much more!
+                Explore on chain ⛓ activity within the 3Landers ecosystem. Discover trends and popular items like DNA types, Biomes, Ship Building and much more.
               </h4>
               <br></br>
               <br></br>
